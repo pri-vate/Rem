@@ -16,4 +16,4 @@ If you need support, join **August's Humble Abode**.
 * [PassTheMayo](https://github.com/PassTheMayo) ~ Music Commands, `xkcd`, and [VoiceConnection](https://github.com/RemDiscordBot/Rem/blob/master/src/core/structures/VoiceConnection.js) class!
 * [discord.js](https://github.com/discordjs/discord.js) ~ `Collection` class.]
 
-[![Discord Bots](https://discordbots.org/api/widget/447229568282132510.svg)](https://discordbots.org/bot/447229568282132510)
+[![Discord Bots](https://discordbots.org/api/widget/447229568282132510.svg)](https://discordbots.org/bot/447229568282132510) [![Greenkeeper badge](https://badges.greenkeeper.io/RemDiscordBot/Rem.svg)](https://greenkeeper.io/)
